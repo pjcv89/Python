@@ -14,6 +14,6 @@ A continuación veremos la siguiente pantalla, en donde podemos elegir la versi�
 
 En nuestro caso, instalaremos **Python 3.6** y elegiremos la versión de sistema operativo que estemos utilizando. En el caso de Windows, elegimos **32-Bit Graphical Installer** mientras que para macOS elegimos **64-Bit Graphical Installer**.
 
-### Instalar Anaconda*** 
+### Instalar Anaconda
 
 En este paso instalaremos la app en nuestro sistema. Ejecutamos el archivo que descargamos haciendo doble click, de la manera usual. Se abrirá un asistente típico de instalación. Seguiremos los pasos, podemos seleccionar instalación sólo para nuestro usuario, seleccionar la ruta en disco donde instalaremos y listo.
