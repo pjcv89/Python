@@ -30,3 +30,23 @@ Para esto, ejecutaremos la siguiente instrucción en nuestra línea de comandos 
 ```bash
 conda create -n games python=3.6 anaconda
 ```
+
+Una vez creado nuestro ambiente, el siguiente paso es activarlo para poder usarlo mediante la siguiente instrucción:
+
+```bash
+source activate games
+```
+
+A continuación descargaremos dos librerías adicionales que necesitaremos para nuestros propó
+sitos, a saber, [pyserial](https://github.com/pyserial/pyserial) y [pyFirmata](https://github.com/tino/pyFirmata) ejecutando la siguiente instrucción:
+
+```bash
+pip install pyserial msgpack pyfirmata
+```
+
+Cuando vayamos a dejar de utilizar el entorno, deberemos desactivarlo mediante la siguiente instrucción:
+
+```bash
+source deactivate games
+```
+
