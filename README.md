@@ -2,7 +2,8 @@
 
 ## Anaconda
 
-Anaconda is a scientific Python installation shipping with essentially all needed packages. Install it according to the instructions on their homepage. You can use any Anaconda Python version. An Anaconda Python installation is completely separate from any existing system wide or user space Python installation, so Anaconda can be tested without the fear of breaking an existing installation.
+Anaconda es una Suite de código abierto que abarca una serie de aplicaciones, librerías y conceptos diseñados para el desarrollo de **ciencia de datos** con Python. A grandes rasgos, Anaconda es una distribucción de Python que funciona como un gestor de entorno, un gestor de paquetes y que posee una colección de más de 720 paquetes de código abierto.
+
 
 [Instruciones de instalación](https://www.anaconda.com/download/)
 
