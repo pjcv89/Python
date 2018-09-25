@@ -37,11 +37,21 @@ Una vez creado nuestro ambiente, el siguiente paso es activarlo para poder usarl
 source activate games
 ```
 
-A continuación descargaremos el sistema de gestión de paquetes [pip](https://pypi.org/) para posteriormente descargar dos librerías adicionales que necesitaremos para nuestros propósitos, a saber, [pyserial](https://github.com/pyserial/pyserial) y [pyFirmata](https://github.com/tino/pyFirmata) ejecutando las siguientes instrucciones:
+A continuación descargaremos el sistema de gestión de paquetes [pip](https://pypi.org/) con la siguiente instrucción 
 
 ```bash
 conda install pip
 ```
+
+para posteriormente descargar dos librerías adicionales que necesitaremos para nuestros propósitos, a saber: 
+
+1. [pyserial](https://github.com/pyserial/pyserial): Nos permitirá emplear de forma sencilla el [puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) para envior información de nuestros programas (_software_) hacia nuestra tarjeta (_hardware_).
+
+2. [pyFirmata](https://github.com/tino/pyFirmata): 
+
+
+Descargamos estas dos librerías ejecutando la siguientes instrucción:
+
 
 ```bash
 pip install pyserial msgpack pyfirmata
