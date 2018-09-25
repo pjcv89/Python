@@ -17,3 +17,16 @@ En nuestro caso, instalaremos **Python 3.6** y elegiremos la versión de sistema
 ### Instalar Anaconda
 
 En este paso instalaremos la app en nuestro sistema. Ejecutamos el archivo que descargamos haciendo doble click, de la manera usual. Se abrirá un asistente típico de instalación. Seguiremos los pasos, podemos seleccionar instalación sólo para nuestro usuario, seleccionar la ruta en disco donde instalaremos y listo.
+
+### Creando y gestionando ambientes virtuales
+
+A grandes rasgos, un entorno virtual o ‘virtual environment’  es una carpeta en la que se encuentran los ejecutables de python y las distintas versiones de las librerías que vayamos a usar. De este modo, podremos estar desarrollando varias aplicaciones con distintas versiones de las librerías, incluso del propio interprete de python, gracias a los entornos virtuales.
+
+Una explicación más detallada sobre este tema puede ser hallada en [este excelente blog](https://devnull.wordpress.com/2016/04/18/crear-entorno-virtual-bajo-condapython/).
+
+En nuestro caso, crearemos un ambiente virtual que llamaremos **games**.
+Para esto, ejecutaremos la siguiente instrucción en nuestra línea de comandos (**Terminal** si usamos macOS, o en **CMD** si usamos Windows).
+
+```bash
+conda create -n games python=3.6 anaconda
+```
