@@ -3,7 +3,7 @@
 ## Anaconda
 
 ### ¿Qué es Anaconda?
-Anaconda es una suite de código abierto que abarca una serie de aplicaciones, librerías y conceptos diseñados para el desarrollo de [Instruciones de instalación](https://es.wikipedia.org/wiki/Ciencia_de_datos) con Python. A grandes rasgos, Anaconda es una distribucción de Python que funciona como un gestor de entorno, un gestor de paquetes y que posee una colección de más de 720 paquetes de código abierto.
+Anaconda es una suite de código abierto que abarca una serie de aplicaciones, librerías y conceptos diseñados para el desarrollo de [Ciencia de datos](https://es.wikipedia.org/wiki/Ciencia_de_datos) con Python. A grandes rasgos, Anaconda es una distribucción de Python que funciona como un gestor de entorno, un gestor de paquetes y que posee una colección de más de 720 paquetes de código abierto.
 
 ### Descargar Anaconda
 La liga para su descarga se encuentra [aquí](https://www.anaconda.com/download/)
