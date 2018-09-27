@@ -68,5 +68,9 @@ source deactivate games
 
 Jupyter Notebook, o simplemente Jupyter, es un entorno de trabajo interactivo que permite desarrollar código en Python (y algunos otros lenguajes) de manera dinámica, a la vez que integrar en un mismo documento tanto bloques de código como texto, gráficas o imágenes. 
 
-La forma tradicional de correr un programa en Python es con el comando `python nombre.py`, donde **nombre.py** es un archivo con código de Python. Adicional a eso, para este curso utilizaremos un servidor de Jupyter Notebook con cuadernos de código. Estos cuadernos (_notebooks_) nos permiten combinar texto y código, organizados en celdas, lo cual es más cómodo para probar cosas nuevas y documentar lo que hacemos.
+La forma tradicional de correr un programa en Python es con el comando `python nombre.py`, donde **nombre.py** es un archivo con código de Python. Adicional a eso, para este curso utilizaremos un servidor de Jupyter Notebook con cuadernos de código. Estos cuadernos (_notebooks_) nos permiten combinar texto y código, organizados en celdas, lo cual es más cómodo para probar cosas nuevas y documentar lo que hacemos. El servidor de cuadernos se inicia ejecutando:
+
+```bash
+jupyter notebook
+```
 
