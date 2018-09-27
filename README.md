@@ -45,7 +45,7 @@ conda install pip
 
 para posteriormente descargar dos librerías adicionales que necesitaremos para nuestros propósitos, a saber: 
 
-1. [pyserial](https://github.com/pyserial/pyserial): Nos permitirá emplear de forma sencilla el [puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) para envior información de nuestros programas (_software_) hacia nuestra tarjeta (_hardware_).
+1. [pyserial](https://github.com/pyserial/pyserial): Nos permitirá emplear de forma sencilla el [puerto serie](https://es.wikipedia.org/wiki/Puerto_serie) para enviar información de nuestros programas (_software_) hacia nuestra tarjeta (_hardware_).
 
 2. [pyFirmata](https://github.com/tino/pyFirmata): Es una interfaz en Python para el protocolo Firmata, el cual es un protocolo genérico para la comunicación con microcontroladores desde software instalado en un ordenador. Este protocolo se puede implementar en cualquier arquitectura de microcontroladores, así como en cualquier paquete de software. En nuestro caso, nuestro objetivo principal es permitir controlar completamente Arduino desde software instalado en nuestra computadora, sin escribir una sola línea de código de Arduino.
 
