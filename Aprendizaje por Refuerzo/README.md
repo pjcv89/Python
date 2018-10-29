@@ -19,3 +19,8 @@ No es difícil para un algoritmo aprender qué movimientos concretos ganan la pa
 <p align="center">
   <img width="700" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/reinforcement1.png">
 </p>
+
+
+<p align="center">
+  <img width="700" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/direct_reward1.png">
+</p>
