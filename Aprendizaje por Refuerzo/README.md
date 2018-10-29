@@ -17,5 +17,5 @@ Exploremos esta idea con un juego: el 3 en línea o juego del gato . Si tenemos 
 No es difícil para un algoritmo aprender qué movimientos concretos ganan la partida. Por ejemplo, supongamos que el tablero tiene dos X en línea y la siguiente casilla en la misma línea está vacía. El algoritmo se enfrentará a esta situación múltiples veces, y si prueba diferentes movimientos cada vez, después de algunas pruebas el algoritmo descubrirá que poner una X en la casilla que forma una línea garantiza un refuerzo positivo. Vemos que el refuerzo no sólo depende de la acción que se realiza, sino también del estado en que se encuentra el tablero antes de realizar esa acción, porque poner la X en esa casilla en otros momentos de la partida no gana la partida.
 
 <p align="center">
-  <img width="600" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/reinforcement1.png">
+  <img width="700" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/reinforcement1.png">
 </p>
