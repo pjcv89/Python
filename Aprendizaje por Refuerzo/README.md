@@ -22,5 +22,5 @@ No es difícil para un algoritmo aprender qué movimientos concretos ganan la pa
 
 
 <p align="center">
-  <img width="700" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/direct_reward1.png">
+  <img width="700" height="700" src="https://rubenlopezg.files.wordpress.com/2015/05/direct_reward1.png">
 </p>
