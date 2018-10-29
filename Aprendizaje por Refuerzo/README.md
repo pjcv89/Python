@@ -27,13 +27,13 @@ No es difícil para un algoritmo aprender qué movimientos concretos ganan la pa
 
 
 <p align="center">
-  <img width="400" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/direct_reward_win.png">
+  <img width="400" height="200" src="https://rubenlopezg.files.wordpress.com/2015/05/direct_reward_win.png">
 </p>
 
 <p align="center">
-  <img width="400" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/direct_reward_int.png">
+  <img width="400" height="200" src="https://rubenlopezg.files.wordpress.com/2015/05/direct_reward_int.png">
 </p>
 
 <p align="center">
-  <img width="400" height="300" src="https://rubenlopezg.files.wordpress.com/2015/05/experience1.png">
+  <img width="400" height="200" src="https://rubenlopezg.files.wordpress.com/2015/05/experience1.png">
 </p>
