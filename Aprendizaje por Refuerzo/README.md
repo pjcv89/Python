@@ -8,7 +8,7 @@ La situación anterior es un ejemplo del llamado aprendizaje por refuerzo. En es
 
 Ahora pongamos otro ejemplo, pero ahora uno basado más en seres vivos. ¿Cómo aprende un perro trucos nuevos como sentarse o tumbarse? Cada vez que lo hace bien, se le da un **premio**. Esa *premio* simplemente es un refuerzo positivo. A la larga, nuestra mascota aprenderá que hacer el truco bien tiene una recompensa. La idea se puede extender a los algoritmos que aprenden de forma automática. Tenemos que dar a nuestros algoritmos *premios* digitales.
 
-![](https://github.com/pjcv89/Python/tree/master/Aprendizaje%20por%20Refuerzo/imagenes/dog.jpg "Logo Title Text 1")
+![](https://github.com/pjcv89/Python/blob/master/Aprendizaje%20por%20Refuerzo/imagenes/direct_reward1.png "Logo Title Text 1")
 
 Exploremos esta idea con un juego: el 3 en línea o juego del gato . Si tenemos un algoritmo que aprende por refuerzo, podríamos ofrecer un refuerzo positivo cada vez que el algoritmo gana. La idea básica del aprendizaje por refuerzo es probar a realizar movimientos y observar el refuerzo que proporcionan.
 
