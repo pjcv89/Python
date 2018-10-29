@@ -10,6 +10,10 @@ Ahora pongamos otro ejemplo, pero ahora uno basado más en seres vivos. ¿Cómo 
 
 ![](https://github.com/pjcv89/Python/blob/master/Aprendizaje%20por%20Refuerzo/imagenes/dog.png "Logo Title Text 1")
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 Exploremos esta idea con un juego: el 3 en línea o juego del gato . Si tenemos un algoritmo que aprende por refuerzo, podríamos ofrecer un refuerzo positivo cada vez que el algoritmo gana. La idea básica del aprendizaje por refuerzo es probar a realizar movimientos y observar el refuerzo que proporcionan.
 
 No es difícil para un algoritmo aprender qué movimientos concretos ganan la partida. Por ejemplo, supongamos que el tablero tiene dos X en línea y la siguiente casilla en la misma línea está vacía. El algoritmo se enfrentará a esta situación múltiples veces, y si prueba diferentes movimientos cada vez, después de algunas pruebas el algoritmo descubrirá que poner una X en la casilla que forma una línea garantiza un refuerzo positivo. Vemos que el refuerzo no sólo depende de la acción que se realiza, sino también del estado en que se encuentra el tablero antes de realizar esa acción, porque poner la X en esa casilla en otros momentos de la partida no gana la partida.
